@@ -13,3 +13,4 @@
 # Ignore target and build directories
 /target/
 /build/
+/out/
