@@ -1,6 +1,6 @@
 //package com.aurionpro.model;
 
-package BankingApp.model;
+package BankingApp.model;   
 
 public class CurrentAccount extends Account {
     private double overdraftLimit;
