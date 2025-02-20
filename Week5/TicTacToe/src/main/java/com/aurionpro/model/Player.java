@@ -1,4 +1,4 @@
-package com.aurionpro;
+package com.aurionpro.model;
 
 public class Player {
 

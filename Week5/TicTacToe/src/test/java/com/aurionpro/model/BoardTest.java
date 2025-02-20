@@ -1,4 +1,4 @@
-package com.aurionpro;
+package com.aurionpro.model;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

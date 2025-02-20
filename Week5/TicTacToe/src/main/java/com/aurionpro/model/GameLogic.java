@@ -1,4 +1,4 @@
-package com.aurionpro;
+package com.aurionpro.model;
 
 import java.util.ArrayList;
 import java.util.List;
