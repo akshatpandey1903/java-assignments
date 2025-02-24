@@ -3,7 +3,7 @@ package com.aurionpro.model;
 import java.io.*;
 
 public class Product implements Serializable {
-    private static final String ID_FILE = "unique_ids.txt";
+    private static final String ID_FILE = "D:\\vscode\\javaAssignments\\Week6\\InventoryManagement\\unique_ids.txt";
     private static int idCounter = loadLastId("product"); // Load last used product ID
     private final int productId;
     private String name;
